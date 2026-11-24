@@ -1,0 +1,25 @@
+{
+    "name": "ThreeDUI.Template.Editor",
+    "rootNamespace": "ThreeDUI.Editor",
+    "references": [
+        "ThreeDUI.Template",
+        "WebXR",
+        "Unity.XR.Management",
+        "Unity.XR.Management.Editor",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
